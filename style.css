@@ -20,11 +20,13 @@ p {
 }
 
 text {
+    text-decoration: none;
     transition: all .2s ease-in-out;
     color: #3366CC;
 }
 
 text:hover {
-    background: #3366CC;
+    text-decoration: underline;
+    background-color: #3366CC;
     color: white;
 }

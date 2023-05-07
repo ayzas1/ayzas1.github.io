@@ -25,6 +25,6 @@ text {
 }
 
 text:hover {
-    background-color: #3366CC;
+    background: #3366CC;
     color: white;
 }
